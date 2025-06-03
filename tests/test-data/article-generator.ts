@@ -12,6 +12,6 @@ export function createArticle () {
         title : faker.lorem.sentence(5),
         about: faker.lorem.sentence(7),
         body: faker.lorem.paragraphs(1),
-        tag: 'aqaBhdn'
+        tag: 'aqaBhdnn'
     }
 }
